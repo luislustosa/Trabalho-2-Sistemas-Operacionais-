@@ -3,7 +3,7 @@
 # Integrantes 
    Luís Antônio Lustosa de Araújo Costa - RA - 22401677
    
-   Davi de Albuquerque Chavante
+   Davi de Albuquerque Chavante - RA - 22406020
 
 # Instruções / Observações
 Bom dia,professor.Queria só dar uma atenção que o java para rodar no seu computador,você precisa baixar o java kit que pode ser baixado facilmente em sites da internet,além de baixar as extensões necessarias na sua IDE que utilizar
