@@ -1,7 +1,7 @@
 # Trabalho-2-Sistemas-Operacionais-
 
 # Integrantes 
-   Luís Antônio Lustosa de Araújo Costa
+   Luís Antônio Lustosa de Araújo Costa - 22401677
    
    Davi de Albuquerque Chavante
 
